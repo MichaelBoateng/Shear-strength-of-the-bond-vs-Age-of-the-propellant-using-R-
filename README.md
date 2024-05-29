@@ -1,3 +1,7 @@
+
+![distribution_image](https://github.com/MichaelBoateng/Shear-strength-of-the-bond-vs-Age-of-the-propellant-using-R-/assets/47555566/04ef3fa2-b2bc-420c-be78-3a11bbf7af99)
+
+
 This R script performs a simple linear regression analysis on a dataset. The dataset contains two variables: 'x' and 'y'. The goal of the analysis is to model the relationship between these two variables.
 
 Here's a step-by-step description of what the script does:
